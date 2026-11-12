@@ -25,6 +25,14 @@
 3. 이 폴더의 절대 경로(예: `C:\Users\you\dsh-thinking-language`)를 붙여넣고 설치합니다.
 4. **Installed plugins** 에 나타나며, 설치 후 바로 켜집니다.
 
+**GitHub에서**
+
+```bash
+dsh plugin add github:22curry/dsh-thinking-language
+```
+
+DSH 데스크톱에서는 **Plugins → Add plugin** 에 `github:22curry/dsh-thinking-language` 를 붙여넣으세요. 데스크톱 앱은 자체적으로 프로필을 관리하므로 CLI를 쓰지 않습니다.
+
 **npm에서** (배포 후)
 
 ```bash

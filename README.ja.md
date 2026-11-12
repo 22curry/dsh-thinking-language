@@ -25,6 +25,14 @@
 3. このフォルダの絶対パス（例 `C:\Users\you\dsh-thinking-language`）を貼り付けてインストールします。
 4. **Installed plugins** に表示され、インストール後は有効になります。
 
+**GitHub から**
+
+```bash
+dsh plugin add github:22curry/dsh-thinking-language
+```
+
+DSH Desktop では **Plugins → Add plugin** に `github:22curry/dsh-thinking-language` を貼り付けてください。デスクトップ版は独自にプロファイルを管理するため、CLI は使いません。
+
 **npm から**（公開後）
 
 ```bash

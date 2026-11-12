@@ -25,6 +25,14 @@ La chaîne de raisonnement d'un modèle est produite par le modèle, dans la lan
 3. Collez le chemin absolu de ce dossier (par exemple `C:\Users\you\dsh-thinking-language`) et installez.
 4. Le bundle apparaît dans **Installed plugins** et est actif après l'installation.
 
+**Depuis GitHub**
+
+```bash
+dsh plugin add github:22curry/dsh-thinking-language
+```
+
+Dans DSH Desktop, collez plutôt `github:22curry/dsh-thinking-language` dans **Plugins → Add plugin** : l'application de bureau gère son propre profil et n'est pas pilotée par la CLI.
+
 **Depuis npm** (après publication)
 
 ```bash

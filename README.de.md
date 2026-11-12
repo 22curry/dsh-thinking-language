@@ -25,6 +25,14 @@ Die Gedankenkette eines Modells erzeugt das Modell selbst — auch die Sprache w
 3. Den absoluten Pfad zu diesem Ordner einfügen (z. B. `C:\Users\you\dsh-thinking-language`) und installieren.
 4. Das Bundle erscheint unter **Installed plugins** und ist danach aktiv.
 
+**Von GitHub**
+
+```bash
+dsh plugin add github:22curry/dsh-thinking-language
+```
+
+In DSH Desktop stattdessen `github:22curry/dsh-thinking-language` unter **Plugins → Add plugin** einfügen: Die Desktop-App verwaltet ihr Profil selbst, die CLI steuert sie nicht.
+
 **Über npm** (nach Veröffentlichung)
 
 ```bash

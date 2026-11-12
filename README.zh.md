@@ -25,6 +25,14 @@
 3. 粘贴这个文件夹的绝对路径（例如 `C:\Users\you\dsh-thinking-language`）并安装。
 4. 安装后出现在 **Installed plugins** 列表里，默认已开启。
 
+**从 GitHub 安装**
+
+```bash
+dsh plugin add github:22curry/dsh-thinking-language
+```
+
+DSH 桌面版则是在 **Plugins → Add plugin** 里粘贴 `github:22curry/dsh-thinking-language`——桌面版自己管理 profile，不走 CLI。
+
 **从 npm 安装**（发布之后）
 
 ```bash

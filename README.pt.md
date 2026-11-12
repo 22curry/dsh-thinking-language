@@ -25,6 +25,14 @@ A cadeia de raciocínio de um modelo é gerada pelo próprio modelo, no idioma q
 3. Cole o caminho absoluto desta pasta (por exemplo `C:\Users\you\dsh-thinking-language`) e instale.
 4. O pacote aparece em **Installed plugins** e fica ativo após a instalação.
 
+**Do GitHub**
+
+```bash
+dsh plugin add github:22curry/dsh-thinking-language
+```
+
+No DSH Desktop, cole `github:22curry/dsh-thinking-language` em **Plugins → Add plugin**: o aplicativo de desktop gerencia o próprio perfil e não é controlado pela CLI.
+
 **Pelo npm** (depois de publicado)
 
 ```bash

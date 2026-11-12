@@ -25,6 +25,14 @@ La cadena de razonamiento de un modelo la genera el propio modelo, en el idioma 
 3. Pegue la ruta absoluta de esta carpeta (por ejemplo `C:\Users\you\dsh-thinking-language`) e instale.
 4. El paquete aparece en **Installed plugins** y queda activo tras la instalación.
 
+**Desde GitHub**
+
+```bash
+dsh plugin add github:22curry/dsh-thinking-language
+```
+
+En DSH Desktop, pegue `github:22curry/dsh-thinking-language` en **Plugins → Add plugin**: la aplicación de escritorio gestiona su propio perfil y no se controla desde la CLI.
+
 **Desde npm** (una vez publicado)
 
 ```bash
