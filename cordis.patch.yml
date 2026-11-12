@@ -1,0 +1,6 @@
+- insert:
+    - id: thinking-language
+      name: dsh-thinking-language
+      config:
+        language: follow
+        custom: ''
