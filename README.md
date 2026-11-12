@@ -1,5 +1,7 @@
 # dsh-thinking-language
 
+**English** | [中文](README.zh.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md)
+
 Choose the language **DeepSeek Harness** models think in — Chinese, English, German, French, Spanish, Portuguese, Japanese, Korean, and more — from DSH Settings.
 
 The choice belongs to the profile, not to a conversation: new Sessions, other workspaces, subagents, and restarts all keep it. Set it once.

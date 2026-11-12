@@ -1,5 +1,7 @@
 # dsh-thinking-language
 
+[English](README.md) | **中文** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md)
+
 在 **DSH 设置**里选择模型思考（reasoning）时使用的语言——中文、英文、德语、法语、西班牙语、葡萄牙语、日语、韩语等等。
 
 这个选择属于 profile，而不属于某个对话：新会话、其他工作区、子代理、重启之后都保持不变。设一次就够。
