@@ -1,6 +1,6 @@
 # dsh-thinking-language
 
-[English](README.md) | **中文** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md)
+[English](README.md) | **中文** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [العربية](README.ar.md)
 
 在 **DSH 设置**里选择模型思考（reasoning）时使用的语言——中文、英文、德语、法语、西班牙语、葡萄牙语、日语、韩语等等。
 
@@ -28,7 +28,7 @@
 **从 GitHub 安装**
 
 ```bash
-dsh plugin add github:22curry/dsh-thinking-language
+dsh plugin add github:22curry/dsh-thinking-language --profile <name>
 ```
 
 DSH 桌面版则是在 **Plugins → Add plugin** 里粘贴 `github:22curry/dsh-thinking-language`——桌面版自己管理 profile，不走 CLI。

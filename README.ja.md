@@ -1,6 +1,6 @@
 # dsh-thinking-language
 
-[English](README.md) | [中文](README.zh.md) | **日本語** | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md)
+[English](README.md) | [中文](README.zh.md) | **日本語** | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [العربية](README.ar.md)
 
 **DeepSeek Harness** のモデルが「考える」言語を DSH の設定から選べます — 中国語、英語、ドイツ語、フランス語、スペイン語、ポルトガル語、日本語、韓国語など。
 
@@ -28,7 +28,7 @@
 **GitHub から**
 
 ```bash
-dsh plugin add github:22curry/dsh-thinking-language
+dsh plugin add github:22curry/dsh-thinking-language --profile <name>
 ```
 
 DSH Desktop では **Plugins → Add plugin** に `github:22curry/dsh-thinking-language` を貼り付けてください。デスクトップ版は独自にプロファイルを管理するため、CLI は使いません。

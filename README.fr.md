@@ -1,6 +1,6 @@
 # dsh-thinking-language
 
-[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | **Français** | [Español](README.es.md) | [Português](README.pt.md)
+[English](README.md) | [中文](README.zh.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | **Français** | [Español](README.es.md) | [Português](README.pt.md) | [Русский](README.ru.md) | [العربية](README.ar.md)
 
 Choisissez dans les réglages de DSH la langue dans laquelle les modèles **DeepSeek Harness** réfléchissent — chinois, anglais, allemand, français, espagnol, portugais, japonais, coréen et d'autres.
 
@@ -28,7 +28,7 @@ La chaîne de raisonnement d'un modèle est produite par le modèle, dans la lan
 **Depuis GitHub**
 
 ```bash
-dsh plugin add github:22curry/dsh-thinking-language
+dsh plugin add github:22curry/dsh-thinking-language --profile <name>
 ```
 
 Dans DSH Desktop, collez plutôt `github:22curry/dsh-thinking-language` dans **Plugins → Add plugin** : l'application de bureau gère son propre profil et n'est pas pilotée par la CLI.
